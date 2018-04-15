@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: myFont;
+    src: url("../images/fontCSS3.ttf");
+}
+h1{
+    font-family: myFont;
+
+}
+/*
+body{
+    background:black;
+}
+*/
+
